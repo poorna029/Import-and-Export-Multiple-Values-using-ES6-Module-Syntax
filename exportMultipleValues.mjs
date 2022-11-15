@@ -3,3 +3,5 @@ export const bulb = { watts: 10, type: "LED" };
 export const multiplyByFour = (x) => {
   return 4 * x;
 };
+hi ra buddi ela unnav, emaina naa gurinchi aalochisthunnava/
+
